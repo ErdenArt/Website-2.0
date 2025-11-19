@@ -299,7 +299,6 @@ body {
     display: flex;
     transform: translateX(-20px);
     transition: transform 2s ease;
-    pointer-events: none;
 }
 
 .settings-inner.visible {
